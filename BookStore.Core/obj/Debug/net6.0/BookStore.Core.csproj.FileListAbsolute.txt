@@ -1,0 +1,12 @@
+D:\mongo-swagger\BookStore.Core\bin\Debug\net6.0\BookStore.Core.deps.json
+D:\mongo-swagger\BookStore.Core\bin\Debug\net6.0\BookStore.Core.dll
+D:\mongo-swagger\BookStore.Core\bin\Debug\net6.0\BookStore.Core.pdb
+D:\mongo-swagger\BookStore.Core\obj\Debug\net6.0\BookStore.Core.csproj.AssemblyReference.cache
+D:\mongo-swagger\BookStore.Core\obj\Debug\net6.0\BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\mongo-swagger\BookStore.Core\obj\Debug\net6.0\BookStore.Core.AssemblyInfoInputs.cache
+D:\mongo-swagger\BookStore.Core\obj\Debug\net6.0\BookStore.Core.AssemblyInfo.cs
+D:\mongo-swagger\BookStore.Core\obj\Debug\net6.0\BookStore.Core.csproj.CoreCompileInputs.cache
+D:\mongo-swagger\BookStore.Core\obj\Debug\net6.0\BookStore.Core.dll
+D:\mongo-swagger\BookStore.Core\obj\Debug\net6.0\refint\BookStore.Core.dll
+D:\mongo-swagger\BookStore.Core\obj\Debug\net6.0\BookStore.Core.pdb
+D:\mongo-swagger\BookStore.Core\obj\Debug\net6.0\ref\BookStore.Core.dll
